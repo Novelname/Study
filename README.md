@@ -1,10 +1,10 @@
 # Study
 study in the net in my life in everywhere
-##On internet##
+##On internet
 Surf the Internet
-##On book##
+##On book
 This's really hypnosis.
-##Learn from teacher##
+##Learn from teacher
 Cramming education
 
 At the end of is the reason why I come here.
