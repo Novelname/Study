@@ -6,5 +6,5 @@ study in the net in my life in everywhere
 
 3. Learn from teacher    Cramming education
 
-At the end of is the reason why I come here.
+4. At the end of is the reason why I come here.
 >The next time I will share some pictures.
