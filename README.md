@@ -2,10 +2,10 @@
 
 ##study in the net in my life in everywhere
 
-1. On internet    Surf the Internet
-2. On book    This's really hypnosis.
+1. On internet Surf the Internet
+2. On book This's really hypnosis.
 
-3. Learn from teacher    Cramming education
+3. Learn from teacher Cramming education
 
 4. At the end of is the reason why I come here.
 >The next time I will share some pictures.
@@ -15,6 +15,7 @@
 ### 登录信息
 
 >git config --global user.name "MyName"
+
 >git config --global user.email "MyEmail"
 
 ### 初始本地信息
